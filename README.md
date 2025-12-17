@@ -12,7 +12,7 @@ HTML / CSS / JavaScript を使用し、スマートフォン / タブレット /
 - **担当範囲**：構成 / デザイン模写 / コーディング / レスポンシブ実装  
 - **使用技術**：
   - HTML
-  - SCSS
+  - CSS（Sass / SCSS）
   - JavaScript（jQueryの一部使用）
   - Github Pages にて公開
 
@@ -42,70 +42,85 @@ HTML / CSS / JavaScript を使用し、スマートフォン / タブレット /
 - 画像のシャドウ  
 - セクション間の余白調整で視認性を向上
 
-
-Web制作のポートフォリオ作品です。  
-HTML / CSS / JavaScript を使用し、デザインからコーディングまで一貫して制作しました。
-
 ---
 
 ## 🖥️ 制作物スクリーンショット
 
-### トップページ
-![トップページ](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.51.50.png?raw=true)
+### ファーストビュー（FV）
+![ファーストビュー](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.51.50.png?raw=true)
+
+**キャッチコピーとビジュアルでサービス内容が直感的に伝わる構成**を意識しました。
 
 ---
 
-### セクション①
-![セクション①](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.52.16.png?raw=true)
+### コンセプト / サービス概要
+![コンセプト](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.52.16.png?raw=true)
+
+サービスの特徴や強みが一目で伝わるよう、  
+**情報量と余白のバランス**を意識してレイアウトしました。
 
 ---
 
-### セクション②
-![セクション②](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.52.30.png?raw=true)
+### 特徴・強み紹介
+![特徴](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.52.30.png?raw=true)
+
+複数の特徴を**視認性よくカード型UI**で配置し、  
+ユーザーが内容を把握しやすい構成にしました。
 
 ---
 
-### セクション③
-![セクション③](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.06.png?raw=true)
+### 具体的な機能・サービス内容
+![サービス内容](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.06.png?raw=true)
+
+文章量が多くなりすぎないよう、  
+**見出し＋説明文の階層構造**を意識して実装しました。
 
 ---
 
-### セクション④
-![セクション④](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.15.png?raw=true)
+### 実績・事例紹介
+![実績](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.15.png?raw=true)
+
+実績が視覚的に伝わるよう、  
+**画像とテキストの配置バランス**を調整しました。
 
 ---
 
-### セクション⑤
-![セクション⑤](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.27.png?raw=true)
+### ご利用の流れ
+![利用の流れ](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.27.png?raw=true)
+
+ステップ構成を用い、  
+**初めてのユーザーでも迷わない導線**を意識しました。
 
 ---
 
-### セクション⑥
-![セクション⑥](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.55.png?raw=true)
+### よくある質問（FAQ）
+![FAQ](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.53.55.png?raw=true)
+
+ユーザーの不安を事前に解消できるよう、  
+**Q&A形式で情報を整理**しました。
 
 ---
 
-### フッター / お問い合わせ
+### お問い合わせ・フッター
 ![フッター](https://github.com/brother0502tkm-beep/portfolio03/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-13%201.54.09.png?raw=true)
+
+お問い合わせへの導線をページ下部に設置し、  
+**CV（行動）につながる構成**にしています。
 
 ---
 
 ## 🛠️ 使用技術
 - HTML
-- CSS / Sass
+- CSS（Sass / SCSS）
 - JavaScript
 - レスポンシブ対応
 
 ---
 
 ## 🎯 制作のポイント
-- 視認性を意識したレイアウト設計
-- CSS設計を意識したクラス命名
-- JavaScriptによるUIの動き実装
+- LP構成を意識したセクション設計
+- 再利用しやすいCSS設計
+- JavaScriptによるUIの補助的な動き実装
 
 ---
-
-## 👤 制作者
-Takumi Mitsutaka  
-Web制作ポートフォリオ
 
