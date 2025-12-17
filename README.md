@@ -14,7 +14,7 @@ HTML / CSS / JavaScript を使用し、スマートフォン / タブレット /
   - HTML
   - CSS（Sass / SCSS）
   - JavaScript（jQueryの一部使用）
-  - Github Pages にて公開
+  + Github Pages にて公開
 
 ---
 
